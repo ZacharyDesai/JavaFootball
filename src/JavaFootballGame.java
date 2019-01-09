@@ -5631,7 +5631,6 @@ public class JavaFootballGame {
 				time.setText(timeLeft);
 			}
 			else if (homeTeam instanceof NFLTeam) {
-				System.out.println("here1");
 				quarter.setText("Overtime " + (quarterNum - 4));
 				timeLeft = "10:00";
 				time.setText(timeLeft);
@@ -5709,7 +5708,6 @@ public class JavaFootballGame {
 					overtimeNow = true;
 					coinToss(frame, panel);
 					if (homeTeam instanceof NFLTeam) {
-						System.out.println("here2");
 						quarter.setText("Overtime " + (quarterNum - 4));
 						timeLeft = "10:00";
 						time.setText(timeLeft);
