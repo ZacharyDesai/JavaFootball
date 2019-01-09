@@ -1,0 +1,779 @@
+BSKY 
+
+CP
+Cal Poly
+Mustangs
+0 56 49
+255 227 149
+
+EWU
+Eastern Washington
+Eagles
+167 25 51
+255 255 255
+
+IDA
+Idaho
+Vandals
+179 163 105
+0 0 0
+
+IDST
+Idaho State
+Bengals
+244 121 32
+0 0 0
+
+MONT
+Montana
+Grizzlies
+134 31 65
+137 141 141
+
+MTST
+Montana State
+Bobcats
+0 32 91
+185 151 91
+
+NAU
+Northern Arizona
+Lumberjacks
+0 51 102
+255 210 0
+
+NCU
+Northern Colorado
+Lumberjacks
+1 45 91
+254 189 54
+
+PS
+Portland State
+Vikings
+21 71 52
+255 255 255
+
+SSU
+Sacramento State
+Hornets
+0 78 56
+196 182 129
+
+SUU
+Southern Utah
+Thunderbirds
+196 20 37
+31 34 35
+
+UCD
+UC Davis
+Aggies
+0 40 85
+179 163 105
+
+WEB
+Weber State
+Wildcats
+75 38 130
+161 161 164
+
+BSOU 
+
+CAMP
+Campbell
+Fighting Camels
+234 113 37
+0 0 0
+
+CSU
+Charleston Southern
+Buccaneers
+0 68 124
+255 255 255
+
+GWU
+Gardner-Webb
+Runnin' Bulldogs
+191 44 55
+255 255 255
+
+KENN
+Kennesaw State
+Owls
+35 31 32
+240 180 16
+
+MONM
+Monmouth
+Hawks
+5 24 68
+255 255 255
+
+PC
+Presbyterian
+Blue Hose
+25 72 150
+255 255 255
+
+CAA 
+
+ALB
+Albany
+Great Danes
+61 39 119
+252 187 13
+
+ELON
+Elon
+Phoenix
+4 4 4
+174 164 96
+
+JMU
+James Madison
+Dukes
+38 57 151
+213 161 14
+
+MAIN
+Maine
+Black Bears
+46 141 196
+255 255 255
+
+NOVA
+Villanova
+Wildcats
+18 61 124
+128 251 255
+
+RICH
+Richmond
+Spiders
+158 7 18
+0 50 86
+
+RIU
+Rhode Island
+Rams
+0 53 89
+54 145 198
+
+SB
+Stony Brook
+Seawolves
+17 95 154
+179 58 78
+
+TOW
+Towson
+Tigers
+255 194 41
+30 28 28
+
+UD
+Delaware
+Fightin' Blue Hens
+1 83 155
+255 221 0
+
+UNH
+New Hampshire
+Wildcats
+0 73 144
+255 255 255
+
+WM
+William & Mary
+Tribe
+16 50 23
+253 247 28
+
+IND 
+
+HAMP
+Hampton
+Pirates
+0 103 172
+255 255 255
+
+ND
+North Dakota
+Fighting Hawks
+0 154 68
+171 174 174
+
+UNA
+North Alabama
+Lions
+70 22 107
+219 159 17
+
+IVY 
+
+BRWN
+Brown
+Bears
+124 37 41
+0 0 0
+
+CLMB
+Columbia
+Lions
+0 56 101
+155 203 235
+
+CORN
+Cornell
+Big Red
+166 25 46
+0 0 0
+
+DART
+Dartmouth
+Big Green
+0 95 47
+0 0 0
+
+HRVD
+Harvard
+Crimson
+164 16 52
+0 0 0
+
+PENN
+Penn
+Quakers
+153 0 0
+1 31 91
+
+PRIN
+Princeton
+Tigers
+100 32 0
+0 0 0
+
+YALE
+Yale
+Bulldogs
+0 53 107
+255 255 255
+
+MEAC 
+
+BC
+Bethune-Cookman
+Wildcats
+132 27 53
+255 255 255
+
+DLST
+Delaware State
+Hornets
+241 26 45
+1 169 239
+
+FAMU
+Florida A&M
+Rattlers
+248 151 40
+0 181 82
+
+HOW
+Howard
+Bison
+238 58 67
+9 52 122
+
+MGST
+Morgan State
+Bears
+1 71 134
+244 121 55
+
+NCAT
+North Carolina A&T
+Aggies
+5 5 170
+255 255 255
+
+NCCU
+North Carolina Central
+Eagles
+136 0 35
+26 24 24
+
+NFST
+Norfolk State
+Spartans
+4 101 70
+255 255 255
+
+SCSU
+South Carolina State
+Bulldogs
+126 24 18
+8 13 53
+
+SSU
+Savannah State
+Tigers
+40 2 152
+255 0 0
+
+MVC 
+
+ILST
+Illinois State
+Redbirds
+200 16 46
+254 219 0
+
+INST
+Indiana State
+Sycamores
+0 2 128
+255 255 255
+
+MZST
+Missouri State
+Bears
+94 0 9
+0 0 0
+
+NDSU
+North Dakota State
+Bison
+0 102 51
+255 204 0
+
+SD
+South Dakota
+Coyotes
+173 0 0
+180 180 180
+
+SDSU
+South Dakota State
+Jackrabbits
+0 51 160
+255 209 0
+
+SIU
+Southern Illinois
+Salukis
+114 0 0
+0 0 0
+
+UNI
+Northern Iowa
+Panthers
+75 17 111
+255 204 0
+
+WIU
+Western Illinois
+Leathernecks
+80 7 120
+255 205 0
+
+YSU
+Youngstown State
+Penguins
+200 16 46
+243 213 78
+
+NEC 
+
+BRY
+Bryant
+Bulldogs
+112 45 7
+35 31 32
+
+CCST
+Central Connecticut State
+Blue Devils
+27 73 162
+255 255 255
+
+DUQ
+Duquesne
+Dukes
+0 45 98
+211 17 69
+
+RMU
+Robert Morris
+Colonials
+0 33 77
+175 28 46
+
+SFU
+Saint Francis
+Red Flash
+244 22 80
+30 23 25
+
+SHU
+Sacred Heart
+Pioneers
+206 16 64
+255 255 255
+
+WAG
+Wagner
+Seahawks
+0 72 58
+255 255 255
+
+OVC 
+
+AP
+Austin Peay
+Governors
+142 11 11
+255 255 255
+
+EILL
+Eastern Illinois
+Panthers
+0 0 0
+255 255 255
+
+EKU
+Eastern Kentucky
+Colonels
+115 11 39
+255 255 255
+
+JKST
+Jacksonville State
+Gamecocks
+229 63 64
+255 255 255
+
+MURR
+Murray State
+Racers
+0 33 72
+255 224 0
+
+SEMS
+Southeast Missouri State
+Redhawks
+226 55 62
+35 31 32
+
+TSU
+Tennessee State
+Tigers
+56 60 132
+255 255 255
+
+TTU
+Tennessee Tech
+Golden Eagles
+90 64 153
+255 222 0
+
+UTMT
+UT Martin
+Skyhawks
+255 103 0
+0 0 153
+
+PATL 
+
+BUCK
+Bucknell
+Bison
+0 0 100
+255 112 0
+
+COLG
+Colgate
+Raiders
+139 1 29
+255 255 255
+
+FORD
+Fordham
+Rams
+131 0 50
+255 255 255
+
+GTWN
+Georgetown
+Hoyas
+73 72 124
+255 255 255
+
+HCU
+Holy Cross
+Crusaders
+9 9 9
+255 255 255
+
+LAF
+Lafayette
+Leopards
+154 0 36
+205 189 163
+
+LEH
+Lehigh
+Mountain Hawks
+153 71 8
+207 171 122
+
+PIOL 
+
+BUT
+Butler
+Bulldogs
+19 41 75
+116 118 120
+
+DAVD
+Davidson
+Wildcats
+172 26 47
+0 0 0
+
+DAY
+Dayton
+Flyers
+206 17 65
+0 75 141
+
+DRKE
+Drake
+Bulldogs
+0 47 108
+117 179 179
+
+JU
+Jacksonville
+Dolphins
+0 78 68
+137 138 141
+
+MAR
+Marist
+Red Foxes
+227 24 55
+178 178 178
+
+MORE
+Morehead State
+Eagles
+9 79 163
+255 213 29
+
+STET
+Stetson
+Hatters
+0 103 71
+181 129 80
+
+USD
+San Diego
+Toreros
+14 62 124
+132 188 232
+
+VALP
+Valparaiso
+Crusaders
+78 41 19
+255 204 0
+
+SCON 
+
+CHAT
+Chattanooga
+Mocs
+238 179 17
+0 67 123
+
+CIT
+The Citadel
+Bulldogs
+0 43 92
+255 255 255
+
+ETSU
+East Tennessee State
+Buccaneers
+2 91 163
+190 148 52
+
+FURM
+Furman
+Paladins
+58 23 105
+255 255 255
+
+MER
+Mercer
+Bears
+255 127 39
+255 255 255
+
+SAM
+Samford
+Bulldogs
+0 84 133
+210 212 213
+
+VMI
+Virginia Military Institute
+Keydets
+0 0 0
+229 45 55
+
+WCAR
+Western Carolina
+Catamounts
+73 47 145
+255 255 255
+
+WOFF
+Wofford
+Terriers
+0 0 0
+255 215 0
+
+SLC 
+
+ACU
+Abilene Christian
+Wildcats
+79 38 131
+255 255 255
+
+HBU
+Houston Baptist
+Huskies
+112 45 7
+0 82 156
+
+IW
+Incarnate Word
+Cardinals
+218 0 0
+0 0 0
+
+LAMR
+Lamar
+Cardinals
+35 31 32
+237 27 46
+
+MCNE
+McNeese
+Cowboys
+255 213 29
+0 82 156
+
+NICH
+Nicholls
+Colonels
+196 18 48
+255 255 255
+
+NSU
+Northwestern State
+Demons
+73 47 145
+246 132 40
+
+SELA
+Southeastern Louisiana
+Lions
+0 117 80
+240 181 16
+
+SFA
+Stephen F. Austin
+Lumberjacks
+57 57 150
+255 255 255
+
+SH
+Sam Houston State
+Bearkats
+247 143 30
+35 31 32
+
+UCA
+Central Arkansas
+Bears
+79 38 131
+255 255 255
+
+SWAC East
+
+ALC
+Alcorn State
+Braves
+66 9 74
+252 245 186
+
+ASU
+Alabama State
+Hornets
+254 203 9
+35 31 32
+
+JSU
+Jackson State
+Tigers
+18 50 151
+255 255 255
+
+MVSU
+Mississippi Valley State
+Delta Devils
+5 65 5
+255 255 255
+
+UAM
+Alabama A&M
+Bulldogs
+117 0 0
+255 255 255
+
+SWAC West
+
+AKPB
+Arkansas - Pine Bluff
+Golden Lions
+0 0 0
+238 187 0
+
+GRAM
+Grambling State
+Tigers
+248 132 0
+16 16 8
+
+PVAM
+Prairie View A&M
+Panthers
+90 24 92
+255 189 41
+
+SU
+Southern
+Jaguars
+0 75 151
+255 205 2
+
+TXSO
+Texas Southern
+Tigers
+106 4 3
+255 255 255

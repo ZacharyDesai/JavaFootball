@@ -1,0 +1,13 @@
+passDefense
+
+runDefense
+
+fumble
+
+interception
+
+penaltyFlag
+
+allOutBlitz
+
+zoneBlitz
